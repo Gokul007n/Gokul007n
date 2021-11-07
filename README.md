@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gokul
-- 👀 I’m interested in Python, html, and javascript
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Python, html, and Csharp
+- 🌱 I’m currently learning HTML and some Javascript 
 
 -my discord Cutest Boy Gokul#6052
 <!---
